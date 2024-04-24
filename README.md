@@ -1,6 +1,6 @@
 # bloc_cubit_todo
 
-A new Flutter project.
+this project was created for practicing the bloc for my state management as i am planning to use bloc as my state management tool. it's simple todo app created with help of bloc state management tool.
 
 ## Getting Started
 
